@@ -1,0 +1,19 @@
+html {
+  padding: 0px;
+  }
+
+body {
+  margin: 0px;
+  text-align: center;
+}
+
+.header{
+  width: auto;
+  float: center;
+  font-size: 40px;
+  font-family: "genkai-mincho", genkai-mincho;
+}
+
+.anime{
+  text-align: center;
+}
